@@ -16,15 +16,15 @@ This project implements an x86-based Virtual Machine Monitor (VMM) capable of ru
    ```bash
    git clone https://github.com/your-username/vmm-project.git
    cd vmm-project
-   ``` |
+   ```
 | 2 | Build the VMM:  
    ```bash
    make
-   ``` |
+   ``` 
 | 3 | Run the VMM:  
    ```bash
    ./vmm
-   ``` |
+   ``` 
 | 4 | Download the driver:  
    [usbmmidd_v2.zip](https://www.amyuni.com/downloads/usbmmidd_v2.zip) |
 | 5 | Extract the file. |
