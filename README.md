@@ -14,7 +14,6 @@ This project implements an x86-based Virtual Machine Monitor (VMM) capable of ru
 **Installation**
 
 1) Clone the repository:
-   
+   ...bash
    git clone https://github.com/your-username/vmm-project.git
-   
    cd vmm-project
