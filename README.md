@@ -26,7 +26,9 @@ This project implements an x86-based Virtual Machine Monitor (VMM) capable of ru
 | 4 | Download the driver:  
    [usbmmidd_v2.zip](https://www.amyuni.com/downloads/usbmmidd_v2.zip) |
    
-| 5 | Extract the file. |
+| 5 | Extract the file. 
+
+![Extracting the File](images/Screenshot-2025-02-20-100248.png)|
 
 | 6 | Copy the file location. |
 
